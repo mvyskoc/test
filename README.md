@@ -17,7 +17,7 @@ text
 text
 
 
-# Speciální-znaky+!@$%^&*.()[]/\<.?>
+# Spec.iální-znaky+!@$%^&*.()[]/\<.?>
 Nadpis
 ======
 text
