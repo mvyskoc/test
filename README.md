@@ -1,5 +1,5 @@
 # test
-Skoč [Spodní nadpis](#nadpis-1)
+Skoč [Spodní nadpis](#n2)
 Podnadpis [Podnadpis](#podnadpis-s-češtinou)
 # Nadpis
 nějaký text
@@ -10,7 +10,7 @@ text
 ## Podnadpis s češtinou
 text 
 
-<a name="nadpis-1"></a>
+<a name="n2"></a>
 Nadpis
 ======
 text
