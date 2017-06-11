@@ -10,7 +10,10 @@ text
 ## Podnadpis s češtinou
 text 
 
+## Dvě mezery  text
 <a name="n2"></a>
+
+# Speciální-znaky+!@#$%^&*()[]/\<?>
 Nadpis
 ======
 text
