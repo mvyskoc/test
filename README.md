@@ -13,7 +13,7 @@ text
 ## Dvě mezery  text
 <a name="n2"></a>
 
-# Speciální-znaky+!@#$%^&*()[]/\<?>
+# Speciální-znaky+!@#$%^&*()[]/\<.?>
 Nadpis
 ======
 text
