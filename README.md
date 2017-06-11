@@ -14,6 +14,10 @@ text
 <a name="n2"></a>
 
 # Speciální-znaky+!@#$%^&*()[]/\<.?>
+text
+
+
+# Speciální-znaky+!@$%^&*.()[]/\<.?>
 Nadpis
 ======
 text
