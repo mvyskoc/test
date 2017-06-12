@@ -5,7 +5,7 @@ Switche řady HP1911, 1920, A5120
   - [Přihlášení do příkazového řádku](#přihlášení-do-příkazového-řádku)
   - [Nastavení IP adresy](#nastavení-ip-adresy)
   - [Agregace linek](#agregace-linek)
-  - [Šablona konfigurace](#šablona-konfigurace)
+  - [Šablona konfigurace](#Šablona-konfigurace)
 
 
 ## Přihlášení do příkazového řádku
