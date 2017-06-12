@@ -3,7 +3,7 @@ Switche řady HP1911, 1920, A5120
 
 **Obsah:**
   - [Přihlášení do příkazového řádku](#přihlášení-do-příkazového-řádku)
-  - [Nastavení IP adresy](#nastavení-ip-adresy)
+  - [Nastavení IP adresy](#nastaveni-ip-adresy)
   - [Agregace linek][]
   - [Šablona konfigurace](#Šablona-konfigurace)
 
