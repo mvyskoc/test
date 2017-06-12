@@ -22,7 +22,8 @@ Switche řady HP1911, 1920, A5120
   Y
   Jinhua1920unauthorized
   ```
-Nastavení IP Adresy  <a name="nastaveni-ip-adresy"/>
+<a name="nastaveni-ip-adresy"/>
+Nastavení IP Adresy 
 -------------------
 `ipsetup ip-address 10.28.14.8 255.255.224.0`
 
