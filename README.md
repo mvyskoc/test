@@ -4,11 +4,11 @@ Switche řady HP1911, 1920, A5120
 **Obsah:**
   - [Přihlášení do příkazového řádku](#přihlášení-do-příkazového-řádku)
   - [Nastavení IP adresy](#nastavení-ip-adresy)
-  - [Agregace linek](#agregace-linek)
+  - [Agregace linek][]
   - [Šablona konfigurace](#Šablona-konfigurace)
 
 
-## Přihlášení do příkazového řádku
+## Přihlášení do příkazového řádku   {#prihlaseni}
 **Switch HP1910:**
   ```txt
   _cmdline-mode on
